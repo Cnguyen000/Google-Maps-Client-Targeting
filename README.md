@@ -14,10 +14,10 @@ This project involves the an automated solution to extract addresses from Google
 ## Installation
 
 1. Clone repository to local machine using command:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Cnguyen000/GeorgiaHPI.git
 
 2. Navigate to project directory:
-cd your-repo
+cd GeorgiaHPI
 
 3. Install the required dependencies:
 pip install -r requirements.txt
