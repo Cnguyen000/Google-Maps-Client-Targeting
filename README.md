@@ -14,10 +14,10 @@ This project involves the an automated solution to extract addresses from Google
 ## Installation
 
 1. Clone repository to local machine using command:
-git clone https://github.com/Cnguyen000/GeorgiaHPI.git
+git clone https://github.com/Cnguyen000/Google-Maps-Client-Targeting.git
 
 2. Navigate to project directory:
-cd GeorgiaHPI
+cd Google-Maps-Client-Targeting
 
 3. Install the required dependencies:
 pip install -r requirements.txt
