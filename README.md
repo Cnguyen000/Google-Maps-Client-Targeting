@@ -7,7 +7,6 @@ This project involves the an automated solution to extract addresses from Google
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 
